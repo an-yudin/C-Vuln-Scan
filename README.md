@@ -42,6 +42,3 @@ add_subdirectory(UAFDetect)
 ```
 /llvm-project-llvmorg-14.0.6/build/bin/lli final_opt.ll
 ```
-Если все было выполнено корректно, будет получен следующий результат (в случае детектирования уязвимости):
-
-![image](https://github.com/user-attachments/assets/71fcb34f-32f6-49ce-9fb3-95d002084fd3)
